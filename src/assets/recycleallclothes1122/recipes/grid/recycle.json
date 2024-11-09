@@ -1,0 +1,32 @@
+{
+    "ingredientPattern": "KS,C_",
+    "width": 2,
+    "height": 2,
+  
+    "ingredients": {
+      "K": {
+        "type": "item",
+        "code": "game:knife-*",
+        "isTool": true, 
+        "toolDurabilityCost": 1 
+      },
+      "S": {
+        "type": "item",
+        "code": "game:shears-*",
+        "isTool": true, 
+        "toolDurabilityCost": 1 
+      },
+      "C": {
+        "type": "item",
+        "code": "game:clothes-*"
+      }
+    },
+    "shappeless": true,
+    "output": 
+      {
+        "type": "item",
+        "code": "game:flaxfibers",
+        "quantity": 15
+      }
+}
+  
