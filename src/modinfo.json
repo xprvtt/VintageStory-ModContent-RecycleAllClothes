@@ -1,0 +1,13 @@
+{
+    "type": "content",
+    "modid": "recycleallclothes1122",
+    "name": "Recycle All Clothes",
+    "authors": [
+      "xprvtt"
+    ],
+    "description": "Recycle All Clothes",
+    "version": "1.0.0",
+    "dependencies": {
+      "game": "1.19.8"
+    }
+  }
